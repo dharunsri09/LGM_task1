@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  place-items: center;
+  background-color: rgb(107, 107, 107);
+}
+
+h2{
+margin-left:40%;
+color:rgb(241, 246, 241);
+font-size: 5em;
+}
+html{
+  font-size: 62.5%;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
